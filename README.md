@@ -69,3 +69,5 @@ My journey in Electronic Engineering has led me to develop a passion for cyberse
 -->
 
 ### Certifications
+
+Cybersecurity Analist 
