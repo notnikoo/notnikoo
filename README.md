@@ -70,4 +70,5 @@ My journey in Electronic Engineering has led me to develop a passion for cyberse
 
 ### Certifications
 
-Cybersecurity Analyst <a href="https://talent.epicode.com/talent/a4325563-0d7f-438b-8d51-e649cee410a4">
+Cybersecurity Analyst <a href="https://talent.epicode.com/talent/a4325563-0d7f-438b-8d51-e649cee410a4"> <img src="https://img.shields.io/badge/-Epicode-ff5722?style=for-the-badge&logo=data:image/png;base64,YOUR_BASE64_LOGO&logoColor=white" /></a>
+
